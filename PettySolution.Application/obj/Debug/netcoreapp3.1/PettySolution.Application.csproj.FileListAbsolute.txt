@@ -1,0 +1,9 @@
+E:\Projects\PettySolution\PettySolution.Application\bin\Debug\netcoreapp3.1\PettySolution.Application.deps.json
+E:\Projects\PettySolution\PettySolution.Application\bin\Debug\netcoreapp3.1\PettySolution.Application.dll
+E:\Projects\PettySolution\PettySolution.Application\bin\Debug\netcoreapp3.1\PettySolution.Application.pdb
+E:\Projects\PettySolution\PettySolution.Application\obj\Debug\netcoreapp3.1\PettySolution.Application.csprojAssemblyReference.cache
+E:\Projects\PettySolution\PettySolution.Application\obj\Debug\netcoreapp3.1\PettySolution.Application.AssemblyInfoInputs.cache
+E:\Projects\PettySolution\PettySolution.Application\obj\Debug\netcoreapp3.1\PettySolution.Application.AssemblyInfo.cs
+E:\Projects\PettySolution\PettySolution.Application\obj\Debug\netcoreapp3.1\PettySolution.Application.csproj.CoreCompileInputs.cache
+E:\Projects\PettySolution\PettySolution.Application\obj\Debug\netcoreapp3.1\PettySolution.Application.dll
+E:\Projects\PettySolution\PettySolution.Application\obj\Debug\netcoreapp3.1\PettySolution.Application.pdb

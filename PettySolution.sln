@@ -3,7 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30114.105
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PettySolution.Data", "PettySolution.Data\PettySolution.Data.csproj", "{241D64C3-9586-4AF7-8885-8708A97485D6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PettySolution.Data", "PettySolution.Data\PettySolution.Data.csproj", "{241D64C3-9586-4AF7-8885-8708A97485D6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PettySolution.ViewModels", "PettySolution.ViewModels\PettySolution.ViewModels.csproj", "{DD151AA6-1408-46B5-BAEF-87A9B27EC82C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PettySolution.Application", "PettySolution.Application\PettySolution.Application.csproj", "{614785A8-34C7-4A93-95FA-016E2C391842}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PettySolution.BackendAPI", "PettySolution.BackendAPI\PettySolution.BackendAPI.csproj", "{8E0914FD-71E3-444E-98DF-91BB1E81443A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +21,18 @@ Global
 		{241D64C3-9586-4AF7-8885-8708A97485D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{241D64C3-9586-4AF7-8885-8708A97485D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{241D64C3-9586-4AF7-8885-8708A97485D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD151AA6-1408-46B5-BAEF-87A9B27EC82C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD151AA6-1408-46B5-BAEF-87A9B27EC82C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD151AA6-1408-46B5-BAEF-87A9B27EC82C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD151AA6-1408-46B5-BAEF-87A9B27EC82C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{614785A8-34C7-4A93-95FA-016E2C391842}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{614785A8-34C7-4A93-95FA-016E2C391842}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{614785A8-34C7-4A93-95FA-016E2C391842}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{614785A8-34C7-4A93-95FA-016E2C391842}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E0914FD-71E3-444E-98DF-91BB1E81443A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E0914FD-71E3-444E-98DF-91BB1E81443A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E0914FD-71E3-444E-98DF-91BB1E81443A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E0914FD-71E3-444E-98DF-91BB1E81443A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

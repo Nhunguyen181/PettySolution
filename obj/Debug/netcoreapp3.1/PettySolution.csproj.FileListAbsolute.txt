@@ -1,0 +1,4 @@
+E:\Projects\PettySolution\obj\Debug\netcoreapp3.1\PettySolution.csprojAssemblyReference.cache
+E:\Projects\PettySolution\obj\Debug\netcoreapp3.1\PettySolution.AssemblyInfoInputs.cache
+E:\Projects\PettySolution\obj\Debug\netcoreapp3.1\PettySolution.AssemblyInfo.cs
+E:\Projects\PettySolution\obj\Debug\netcoreapp3.1\PettySolution.csproj.CoreCompileInputs.cache
