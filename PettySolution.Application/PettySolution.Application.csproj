@@ -4,4 +4,8 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\PettySolution.Data\PettySolution.Data.csproj" />
+  </ItemGroup>
+
 </Project>

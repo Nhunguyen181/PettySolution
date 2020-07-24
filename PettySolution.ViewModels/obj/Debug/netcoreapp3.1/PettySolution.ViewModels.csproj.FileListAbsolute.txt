@@ -10,3 +10,15 @@ E:\Projects\PettySolution\PettySolution.ViewModels\obj\Debug\netcoreapp3.1\Petty
 E:\Projects\PettySolution\PettySolution.ViewModels\obj\Debug\netcoreapp3.1\PettySolution.ViewModels.csproj.CopyComplete
 E:\Projects\PettySolution\PettySolution.ViewModels\obj\Debug\netcoreapp3.1\PettySolution.ViewModels.dll
 E:\Projects\PettySolution\PettySolution.ViewModels\obj\Debug\netcoreapp3.1\PettySolution.ViewModels.pdb
+D:\CHUYEN_NGANH_9\PRC391\PettySolution\PettySolution.ViewModels\bin\Debug\netcoreapp3.1\PettySolution.ViewModels.deps.json
+D:\CHUYEN_NGANH_9\PRC391\PettySolution\PettySolution.ViewModels\bin\Debug\netcoreapp3.1\PettySolution.ViewModels.dll
+D:\CHUYEN_NGANH_9\PRC391\PettySolution\PettySolution.ViewModels\bin\Debug\netcoreapp3.1\PettySolution.ViewModels.pdb
+D:\CHUYEN_NGANH_9\PRC391\PettySolution\PettySolution.ViewModels\bin\Debug\netcoreapp3.1\PettySolution.Data.dll
+D:\CHUYEN_NGANH_9\PRC391\PettySolution\PettySolution.ViewModels\bin\Debug\netcoreapp3.1\PettySolution.Data.pdb
+D:\CHUYEN_NGANH_9\PRC391\PettySolution\PettySolution.ViewModels\obj\Debug\netcoreapp3.1\PettySolution.ViewModels.csprojAssemblyReference.cache
+D:\CHUYEN_NGANH_9\PRC391\PettySolution\PettySolution.ViewModels\obj\Debug\netcoreapp3.1\PettySolution.ViewModels.csproj.CoreCompileInputs.cache
+D:\CHUYEN_NGANH_9\PRC391\PettySolution\PettySolution.ViewModels\obj\Debug\netcoreapp3.1\PettySolution.ViewModels.AssemblyInfoInputs.cache
+D:\CHUYEN_NGANH_9\PRC391\PettySolution\PettySolution.ViewModels\obj\Debug\netcoreapp3.1\PettySolution.ViewModels.AssemblyInfo.cs
+D:\CHUYEN_NGANH_9\PRC391\PettySolution\PettySolution.ViewModels\obj\Debug\netcoreapp3.1\PettySolution.ViewModels.csproj.CopyComplete
+D:\CHUYEN_NGANH_9\PRC391\PettySolution\PettySolution.ViewModels\obj\Debug\netcoreapp3.1\PettySolution.ViewModels.dll
+D:\CHUYEN_NGANH_9\PRC391\PettySolution\PettySolution.ViewModels\obj\Debug\netcoreapp3.1\PettySolution.ViewModels.pdb

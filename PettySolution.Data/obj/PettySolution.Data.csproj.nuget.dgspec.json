@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Projects\\PettySolution\\PettySolution.Data\\PettySolution.Data.csproj": {}
+    "D:\\CHUYEN_NGANH_9\\PRC391\\PettySolution\\PettySolution.Data\\PettySolution.Data.csproj": {}
   },
   "projects": {
-    "E:\\Projects\\PettySolution\\PettySolution.Data\\PettySolution.Data.csproj": {
+    "D:\\CHUYEN_NGANH_9\\PRC391\\PettySolution\\PettySolution.Data\\PettySolution.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Projects\\PettySolution\\PettySolution.Data\\PettySolution.Data.csproj",
+        "projectUniqueName": "D:\\CHUYEN_NGANH_9\\PRC391\\PettySolution\\PettySolution.Data\\PettySolution.Data.csproj",
         "projectName": "PettySolution.Data",
-        "projectPath": "E:\\Projects\\PettySolution\\PettySolution.Data\\PettySolution.Data.csproj",
-        "packagesPath": "C:\\Users\\Nhung Nguyen\\.nuget\\packages\\",
-        "outputPath": "E:\\Projects\\PettySolution\\PettySolution.Data\\obj\\",
+        "projectPath": "D:\\CHUYEN_NGANH_9\\PRC391\\PettySolution\\PettySolution.Data\\PettySolution.Data.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "D:\\CHUYEN_NGANH_9\\PRC391\\PettySolution\\PettySolution.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Nhung Nguyen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -70,7 +70,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

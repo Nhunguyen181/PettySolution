@@ -7,3 +7,15 @@ E:\Projects\PettySolution\PettySolution.Application\obj\Debug\netcoreapp3.1\Pett
 E:\Projects\PettySolution\PettySolution.Application\obj\Debug\netcoreapp3.1\PettySolution.Application.csproj.CoreCompileInputs.cache
 E:\Projects\PettySolution\PettySolution.Application\obj\Debug\netcoreapp3.1\PettySolution.Application.dll
 E:\Projects\PettySolution\PettySolution.Application\obj\Debug\netcoreapp3.1\PettySolution.Application.pdb
+D:\CHUYEN_NGANH_9\PRC391\PettySolution\PettySolution.Application\bin\Debug\netcoreapp3.1\PettySolution.Application.deps.json
+D:\CHUYEN_NGANH_9\PRC391\PettySolution\PettySolution.Application\bin\Debug\netcoreapp3.1\PettySolution.Application.dll
+D:\CHUYEN_NGANH_9\PRC391\PettySolution\PettySolution.Application\bin\Debug\netcoreapp3.1\PettySolution.Application.pdb
+D:\CHUYEN_NGANH_9\PRC391\PettySolution\PettySolution.Application\bin\Debug\netcoreapp3.1\PettySolution.Data.dll
+D:\CHUYEN_NGANH_9\PRC391\PettySolution\PettySolution.Application\bin\Debug\netcoreapp3.1\PettySolution.Data.pdb
+D:\CHUYEN_NGANH_9\PRC391\PettySolution\PettySolution.Application\obj\Debug\netcoreapp3.1\PettySolution.Application.csprojAssemblyReference.cache
+D:\CHUYEN_NGANH_9\PRC391\PettySolution\PettySolution.Application\obj\Debug\netcoreapp3.1\PettySolution.Application.csproj.CoreCompileInputs.cache
+D:\CHUYEN_NGANH_9\PRC391\PettySolution\PettySolution.Application\obj\Debug\netcoreapp3.1\PettySolution.Application.AssemblyInfoInputs.cache
+D:\CHUYEN_NGANH_9\PRC391\PettySolution\PettySolution.Application\obj\Debug\netcoreapp3.1\PettySolution.Application.AssemblyInfo.cs
+D:\CHUYEN_NGANH_9\PRC391\PettySolution\PettySolution.Application\obj\Debug\netcoreapp3.1\PettySolution.Application.csproj.CopyComplete
+D:\CHUYEN_NGANH_9\PRC391\PettySolution\PettySolution.Application\obj\Debug\netcoreapp3.1\PettySolution.Application.dll
+D:\CHUYEN_NGANH_9\PRC391\PettySolution\PettySolution.Application\obj\Debug\netcoreapp3.1\PettySolution.Application.pdb

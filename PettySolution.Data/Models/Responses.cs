@@ -11,10 +11,10 @@ namespace PettySolution.Data.Models
         public string Contents { get; set; }
         public double? Rating { get; set; }
         public int? ProductId { get; set; }
-        public int? OrderProductDetailId { get; set; }
+        public int OrderProductDetailId { get; set; }
         public string Img { get; set; }
 
+        public virtual OrderProductDetails OrderProductDetail { get; set; }
         public virtual Products Product { get; set; }
-        public virtual OrderProductDetails OrderProductDetails { get; set; }
     }
 }

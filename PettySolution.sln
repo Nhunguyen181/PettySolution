@@ -7,9 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PettySolution.Data", "Petty
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PettySolution.ViewModels", "PettySolution.ViewModels\PettySolution.ViewModels.csproj", "{DD151AA6-1408-46B5-BAEF-87A9B27EC82C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PettySolution.Application", "PettySolution.Application\PettySolution.Application.csproj", "{614785A8-34C7-4A93-95FA-016E2C391842}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PettySolution.Application", "PettySolution.Application\PettySolution.Application.csproj", "{614785A8-34C7-4A93-95FA-016E2C391842}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PettySolution.BackendAPI", "PettySolution.BackendAPI\PettySolution.BackendAPI.csproj", "{8E0914FD-71E3-444E-98DF-91BB1E81443A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PettySolution.BackendAPI", "PettySolution.BackendAPI\PettySolution.BackendAPI.csproj", "{8E0914FD-71E3-444E-98DF-91BB1E81443A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

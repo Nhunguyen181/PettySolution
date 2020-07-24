@@ -13,8 +13,9 @@ namespace PettySolution.Data.Models
         public int? OrderProductStoreId { get; set; }
         public int? ProductId { get; set; }
 
-        public virtual Responses IdNavigation { get; set; }
         public virtual OrderProductStores OrderProductStore { get; set; }
         public virtual Products Product { get; set; }
+        public virtual Responses Responses { get; set; }
+        public virtual Returns Returns { get; set; }
     }
 }

@@ -113,18 +113,9 @@ namespace PettySolution.Data.Models
 
             modelBuilder.Entity<OrderProductDetails>(entity =>
             {
-                entity.Property(e => e.Id).ValueGeneratedOnAdd();
-
                 entity.Property(e => e.Date).HasColumnType("datetime");
 
                 entity.Property(e => e.OrderStatus).HasMaxLength(255);
-
-                entity.HasOne(d => d.IdNavigation)
-                    .WithOne(p => p.OrderProductDetails)
-                    .HasPrincipalKey<Responses>(p => p.OrderProductDetailId)
-                    .HasForeignKey<OrderProductDetails>(d => d.Id)
-                    .OnDelete(DeleteBehavior.ClientSetNull)
-                    .HasConstraintName("FK_OrderProductDetail_Response");
 
                 entity.HasOne(d => d.OrderProductStore)
                     .WithMany(p => p.OrderProductDetails)
@@ -232,9 +223,13 @@ namespace PettySolution.Data.Models
 
                 entity.Property(e => e.Img).HasMaxLength(255);
 
-                entity.Property(e => e.OrderProductDetailId).IsRequired();
-
                 entity.Property(e => e.Title).HasMaxLength(255);
+
+                entity.HasOne(d => d.OrderProductDetail)
+                    .WithOne(p => p.Responses)
+                    .HasForeignKey<Responses>(d => d.OrderProductDetailId)
+                    .OnDelete(DeleteBehavior.ClientSetNull)
+                    .HasConstraintName("FK_Responses_OrderProductDetails");
 
                 entity.HasOne(d => d.Product)
                     .WithMany(p => p.Responses)
@@ -244,8 +239,6 @@ namespace PettySolution.Data.Models
 
             modelBuilder.Entity<Returns>(entity =>
             {
-                entity.HasNoKey();
-
                 entity.HasIndex(e => e.Id)
                     .HasName("PK_Return");
 
@@ -257,14 +250,12 @@ namespace PettySolution.Data.Models
 
                 entity.Property(e => e.Date).HasColumnType("datetime");
 
-                entity.Property(e => e.Id).ValueGeneratedOnAdd();
-
                 entity.Property(e => e.Img).HasMaxLength(255);
 
                 entity.Property(e => e.Reasion).HasMaxLength(255);
 
                 entity.HasOne(d => d.OrderProductDetail)
-                    .WithOne()
+                    .WithOne(p => p.Returns)
                     .HasForeignKey<Returns>(d => d.OrderProductDetailId)
                     .HasConstraintName("FK_Return_OrderProductDetail");
             });
