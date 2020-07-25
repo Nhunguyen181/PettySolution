@@ -31,7 +31,19 @@ namespace PettySolution.BackendAPI.Controllers
                 return BadRequest(e.Message);
             }
         }
-
+        [HttpPost("login")]
+        public ActionResult login(string username, string password)
+        {
+            try
+            {
+                Stores stores = _storesService.Get(_ => _.Username == username && _.Password == password);
+                return Ok(stores);
+            }
+            catch (Exception e)
+            {
+                return BadRequest(e.Message);
+            }
+        }
         [HttpGet("Stores")]
         public ActionResult getAll()
         {

@@ -5,9 +5,12 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using PettySolution.Application.Catalog;
 using PettySolution.Data.Models;
+using PettySolution.ViewModels.Catalog;
 
 namespace PettySolution.BackendAPI.Controllers
 {
+    [Route("api/[controller]")]
+    [ApiController]
     public class CustomersController : ControllerBase
     {
         private readonly ICustomersService _customersService;
@@ -23,6 +26,30 @@ namespace PettySolution.BackendAPI.Controllers
             try
             {
                 Customers customers = _customersService.Get(_ => _.Username == username);
+                CustomerGetViewModel customerGetViewModel = new CustomerGetViewModel
+                {
+                    Username = customers.Username,
+                    FirstName = customers.FirstName,
+                    LastName = customers.LastName,
+                    DayOfBirth = customers.DayOfBirth,
+                    Email = customers.Email,
+                    Active = customers.Active,
+                    Gender = customers.Gender,
+
+                };
+                return Ok(customerGetViewModel);
+            }
+            catch (Exception e)
+            {
+                return BadRequest(e.Message);
+            }
+        }
+        [HttpPost("login")]
+        public ActionResult login(string username, string password)
+        {
+            try
+            {
+                Customers customers = _customersService.Get(_ => _.Username == username && _.Password == password);
                 return Ok(customers);
             }
             catch (Exception e)
@@ -30,7 +57,6 @@ namespace PettySolution.BackendAPI.Controllers
                 return BadRequest(e.Message);
             }
         }
-
         [HttpPost("create")]
         public ActionResult create(string username, string password, string firstName, string lastName, DateTime dayOfBirth, string email, Boolean gender, Boolean active)
         {

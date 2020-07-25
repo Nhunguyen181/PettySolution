@@ -30,7 +30,7 @@ namespace PettySolution.BackendAPI.Controllers
             _addressesService = addressesService;
             _customersService = customersService;
         }
-        [HttpGet]
+        [HttpGet("{id}")]
         public ActionResult getOrderProductStore(int id)
         {
             try
@@ -142,7 +142,7 @@ namespace PettySolution.BackendAPI.Controllers
                 return BadRequest(e.Message);
             }
         }
-        [HttpGet("Store")]
+        [HttpGet("Store/{storeID}")]
         public ActionResult getByStore(string storeID)
         {
             try

@@ -18,7 +18,7 @@ namespace PettySolution.BackendAPI.Controllers
         {
             _addressesService = addressesService;
         }
-        [HttpGet]
+        [HttpGet("{id}")]
         public ActionResult getAddress(int id)
         {
             try

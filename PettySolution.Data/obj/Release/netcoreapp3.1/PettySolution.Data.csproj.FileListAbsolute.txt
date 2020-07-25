@@ -1,0 +1,12 @@
+D:\CHUYEN_NGANH_9\PRC391\PettySolution\PettySolution.Data\bin\Release\netcoreapp3.1\PettySolution.Data.deps.json
+D:\CHUYEN_NGANH_9\PRC391\PettySolution\PettySolution.Data\bin\Release\netcoreapp3.1\PettySolution.Data.runtimeconfig.json
+D:\CHUYEN_NGANH_9\PRC391\PettySolution\PettySolution.Data\bin\Release\netcoreapp3.1\PettySolution.Data.runtimeconfig.dev.json
+D:\CHUYEN_NGANH_9\PRC391\PettySolution\PettySolution.Data\bin\Release\netcoreapp3.1\PettySolution.Data.dll
+D:\CHUYEN_NGANH_9\PRC391\PettySolution\PettySolution.Data\bin\Release\netcoreapp3.1\PettySolution.Data.pdb
+D:\CHUYEN_NGANH_9\PRC391\PettySolution\PettySolution.Data\obj\Release\netcoreapp3.1\PettySolution.Data.csprojAssemblyReference.cache
+D:\CHUYEN_NGANH_9\PRC391\PettySolution\PettySolution.Data\obj\Release\netcoreapp3.1\PettySolution.Data.csproj.CoreCompileInputs.cache
+D:\CHUYEN_NGANH_9\PRC391\PettySolution\PettySolution.Data\obj\Release\netcoreapp3.1\PettySolution.Data.AssemblyInfoInputs.cache
+D:\CHUYEN_NGANH_9\PRC391\PettySolution\PettySolution.Data\obj\Release\netcoreapp3.1\PettySolution.Data.AssemblyInfo.cs
+D:\CHUYEN_NGANH_9\PRC391\PettySolution\PettySolution.Data\obj\Release\netcoreapp3.1\PettySolution.Data.dll
+D:\CHUYEN_NGANH_9\PRC391\PettySolution\PettySolution.Data\obj\Release\netcoreapp3.1\PettySolution.Data.pdb
+D:\CHUYEN_NGANH_9\PRC391\PettySolution\PettySolution.Data\obj\Release\netcoreapp3.1\PettySolution.Data.genruntimeconfig.cache
