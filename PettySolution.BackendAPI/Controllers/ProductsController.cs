@@ -19,7 +19,7 @@ namespace PettySolution.BackendAPI.Controllers
             _productsService = productsService;
         }
 
-        [HttpGet]
+        [HttpGet("{id}")]
         public ActionResult getProduct(int id)
         {
             try
