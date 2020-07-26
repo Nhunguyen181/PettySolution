@@ -8744,19 +8744,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Admin\\.nuget\\packages\\": {}
+    "C:\\Users\\Nhung Nguyen\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\CHUYEN_NGANH_9\\PRC391\\PettySolution\\PettySolution.BackendAPI\\PettySolution.BackendAPI.csproj",
+      "projectUniqueName": "E:\\Projects\\PettySolution\\PettySolution.BackendAPI\\PettySolution.BackendAPI.csproj",
       "projectName": "PettySolution.BackendAPI",
-      "projectPath": "D:\\CHUYEN_NGANH_9\\PRC391\\PettySolution\\PettySolution.BackendAPI\\PettySolution.BackendAPI.csproj",
-      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\CHUYEN_NGANH_9\\PRC391\\PettySolution\\PettySolution.BackendAPI\\obj\\",
+      "projectPath": "E:\\Projects\\PettySolution\\PettySolution.BackendAPI\\PettySolution.BackendAPI.csproj",
+      "packagesPath": "C:\\Users\\Nhung Nguyen\\.nuget\\packages\\",
+      "outputPath": "E:\\Projects\\PettySolution\\PettySolution.BackendAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Nhung Nguyen\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -8769,14 +8769,14 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "D:\\CHUYEN_NGANH_9\\PRC391\\PettySolution\\PettySolution.Application\\PettySolution.Application.csproj": {
-              "projectPath": "D:\\CHUYEN_NGANH_9\\PRC391\\PettySolution\\PettySolution.Application\\PettySolution.Application.csproj"
+            "E:\\Projects\\PettySolution\\PettySolution.Application\\PettySolution.Application.csproj": {
+              "projectPath": "E:\\Projects\\PettySolution\\PettySolution.Application\\PettySolution.Application.csproj"
             },
-            "D:\\CHUYEN_NGANH_9\\PRC391\\PettySolution\\PettySolution.Data\\PettySolution.Data.csproj": {
-              "projectPath": "D:\\CHUYEN_NGANH_9\\PRC391\\PettySolution\\PettySolution.Data\\PettySolution.Data.csproj"
+            "E:\\Projects\\PettySolution\\PettySolution.Data\\PettySolution.Data.csproj": {
+              "projectPath": "E:\\Projects\\PettySolution\\PettySolution.Data\\PettySolution.Data.csproj"
             },
-            "D:\\CHUYEN_NGANH_9\\PRC391\\PettySolution\\PettySolution.ViewModels\\PettySolution.ViewModels.csproj": {
-              "projectPath": "D:\\CHUYEN_NGANH_9\\PRC391\\PettySolution\\PettySolution.ViewModels\\PettySolution.ViewModels.csproj"
+            "E:\\Projects\\PettySolution\\PettySolution.ViewModels\\PettySolution.ViewModels.csproj": {
+              "projectPath": "E:\\Projects\\PettySolution\\PettySolution.ViewModels\\PettySolution.ViewModels.csproj"
             }
           }
         }
@@ -8833,7 +8833,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
       }
     }
   }
